@@ -1,0 +1,35 @@
+body{
+    border: 5px solid black;
+}
+
+.m{
+    
+    width: 100%;
+}
+
+.r1{
+
+display: inline-block;
+width: 100%;
+
+}
+
+.w{
+
+    display: inline-block;
+
+    width: 230.99px;
+    height:180px;
+    background-color: white;
+    
+    }
+
+.b{
+
+    display: inline-block;
+    width: 230.99px;
+    height:180px;
+    
+    background-color: rgb(0, 0, 0);
+     
+}
